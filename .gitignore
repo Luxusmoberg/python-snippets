@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.grind-state.json
+.venv/
+.DS_Store
