@@ -8,3 +8,4 @@ Small daily notes. Auto-appended.
 - **2026-08-16** — test: cover logging setup branch
 - **2026-08-17** — refactor: simplify config loading
 - **2026-08-18** — notes: revisit path utils
+- **2026-08-19** — notes: tidy up path utils
