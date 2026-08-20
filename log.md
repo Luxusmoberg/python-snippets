@@ -9,3 +9,4 @@ Small daily notes. Auto-appended.
 - **2026-08-17** — refactor: simplify config loading
 - **2026-08-18** — notes: revisit path utils
 - **2026-08-19** — notes: tidy up path utils
+- **2026-08-20** — chore: bump deps, cleanup error reporting
