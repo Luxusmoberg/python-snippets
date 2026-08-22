@@ -11,3 +11,4 @@ Small daily notes. Auto-appended.
 - **2026-08-19** — notes: tidy up path utils
 - **2026-08-20** — chore: bump deps, cleanup error reporting
 - **2026-08-21** — style: formatting pass on the byte helpers
+- **2026-08-22** — notes: revisit the test fixtures
