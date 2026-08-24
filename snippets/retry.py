@@ -9,3 +9,5 @@ def retry(fn, n=3, delay=0.5):
             if i == n - 1:
                 raise
             time.sleep(delay * (2 ** i))
+
+# revised 2026-08-24
