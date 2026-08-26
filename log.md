@@ -15,3 +15,4 @@ Small daily notes. Auto-appended.
 - **2026-08-23** — perf: shave a loop in config loading
 - **2026-08-24** — notes: revisit the CLI flags
 - **2026-08-25** — perf: shave a loop in config loading
+- **2026-08-26** — perf: shave a loop in the parser
