@@ -16,3 +16,4 @@ Small daily notes. Auto-appended.
 - **2026-08-24** — notes: revisit the CLI flags
 - **2026-08-25** — perf: shave a loop in config loading
 - **2026-08-26** — perf: shave a loop in the parser
+- **2026-08-27** — docs: expand the retry logic section
