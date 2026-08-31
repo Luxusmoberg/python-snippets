@@ -20,3 +20,4 @@ Small daily notes. Auto-appended.
 - **2026-08-28** — refactor: simplify error reporting
 - **2026-08-29** — docs: expand logging setup section
 - **2026-08-30** — perf: shave a loop in path utils
+- **2026-08-31** — perf: shave a loop in the retry logic
