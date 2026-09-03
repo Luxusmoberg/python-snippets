@@ -23,3 +23,4 @@ Small daily notes. Auto-appended.
 - **2026-08-31** — perf: shave a loop in the retry logic
 - **2026-09-01** — style: formatting pass on the formatter
 - **2026-09-02** — fix: edge case in the byte helpers
+- **2026-09-03** — test: cover session handling branch
