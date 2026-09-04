@@ -9,3 +9,5 @@ def timer(label='block'):
     print(f'{label}: {time.perf_counter() - t:.3f}s')
 
 # revised 2026-08-27
+
+# revised 2026-09-04
