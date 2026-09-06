@@ -26,3 +26,4 @@ Small daily notes. Auto-appended.
 - **2026-09-03** — test: cover session handling branch
 - **2026-09-04** — feat: small helper for the cache layer
 - **2026-09-05** — style: formatting pass on the byte helpers
+- **2026-09-06** — feat: small helper for error reporting
