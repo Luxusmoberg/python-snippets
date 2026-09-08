@@ -28,3 +28,4 @@ Small daily notes. Auto-appended.
 - **2026-09-05** — style: formatting pass on the byte helpers
 - **2026-09-06** — feat: small helper for error reporting
 - **2026-09-07** — notes: revisit type hints
+- **2026-09-08** — style: formatting pass on the formatter
