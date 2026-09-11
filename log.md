@@ -31,3 +31,4 @@ Small daily notes. Auto-appended.
 - **2026-09-08** — style: formatting pass on the formatter
 - **2026-09-09** — fix: edge case in the parser
 - **2026-09-10** — perf: shave a loop in type hints
+- **2026-09-11** — notes: revisit the cache layer
