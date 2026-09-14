@@ -34,3 +34,4 @@ Small daily notes. Auto-appended.
 - **2026-09-11** — notes: revisit the cache layer
 - **2026-09-12** — test: cover the byte helpers branch
 - **2026-09-13** — notes: revisit path utils
+- **2026-09-14** — chore: bump deps, cleanup the test fixtures
