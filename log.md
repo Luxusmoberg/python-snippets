@@ -38,3 +38,4 @@ Small daily notes. Auto-appended.
 - **2026-09-15** — docs: expand type hints section
 - **2026-09-16** — notes: revisit session handling
 - **2026-09-17** — notes: revisit path utils
+- **2026-09-18** — perf: shave a loop in path utils
