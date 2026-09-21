@@ -41,3 +41,4 @@ Small daily notes. Auto-appended.
 - **2026-09-18** — perf: shave a loop in path utils
 - **2026-09-19** — perf: shave a loop in docstrings
 - **2026-09-20** — docs: expand the cache layer section
+- **2026-09-21** — docs: expand the CLI flags section
