@@ -42,3 +42,4 @@ Small daily notes. Auto-appended.
 - **2026-09-19** — perf: shave a loop in docstrings
 - **2026-09-20** — docs: expand the cache layer section
 - **2026-09-21** — docs: expand the CLI flags section
+- **2026-09-22** — docs: expand the retry logic section
