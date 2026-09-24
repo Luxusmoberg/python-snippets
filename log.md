@@ -44,3 +44,4 @@ Small daily notes. Auto-appended.
 - **2026-09-21** — docs: expand the CLI flags section
 - **2026-09-22** — docs: expand the retry logic section
 - **2026-09-23** — notes: tidy up the retry logic
+- **2026-09-24** — refactor: simplify the CLI flags
