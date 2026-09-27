@@ -47,3 +47,4 @@ Small daily notes. Auto-appended.
 - **2026-09-24** — refactor: simplify the CLI flags
 - **2026-09-25** — test: cover type hints branch
 - **2026-09-26** — perf: shave a loop in the cache layer
+- **2026-09-27** — refactor: simplify config loading
