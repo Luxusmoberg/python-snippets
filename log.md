@@ -48,3 +48,4 @@ Small daily notes. Auto-appended.
 - **2026-09-25** — test: cover type hints branch
 - **2026-09-26** — perf: shave a loop in the cache layer
 - **2026-09-27** — refactor: simplify config loading
+- **2026-09-28** — docs: expand type hints section
