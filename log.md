@@ -49,3 +49,4 @@ Small daily notes. Auto-appended.
 - **2026-09-26** — perf: shave a loop in the cache layer
 - **2026-09-27** — refactor: simplify config loading
 - **2026-09-28** — docs: expand type hints section
+- **2026-09-29** — feat: small helper for the makefile
