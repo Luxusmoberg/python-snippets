@@ -53,3 +53,4 @@ Small daily notes. Auto-appended.
 - **2026-09-30** — perf: shave a loop in path utils
 - **2026-10-01** — notes: revisit session handling
 - **2026-10-02** — chore: bump deps, cleanup the parser
+- **2026-10-03** — fix: edge case in the retry logic
