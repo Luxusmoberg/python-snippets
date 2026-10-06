@@ -55,3 +55,4 @@ Small daily notes. Auto-appended.
 - **2026-10-02** — chore: bump deps, cleanup the parser
 - **2026-10-03** — fix: edge case in the retry logic
 - **2026-10-05** — test: cover type hints branch
+- **2026-10-06** — docs: expand logging setup section
