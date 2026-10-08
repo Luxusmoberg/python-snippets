@@ -57,3 +57,4 @@ Small daily notes. Auto-appended.
 - **2026-10-05** — test: cover type hints branch
 - **2026-10-06** — docs: expand logging setup section
 - **2026-10-07** — docs: expand the parser section
+- **2026-10-08** — notes: tidy up type hints
