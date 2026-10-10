@@ -59,3 +59,4 @@ Small daily notes. Auto-appended.
 - **2026-10-07** — docs: expand the parser section
 - **2026-10-08** — notes: tidy up type hints
 - **2026-10-09** — chore: bump deps, cleanup logging setup
+- **2026-10-10** — fix: edge case in session handling
