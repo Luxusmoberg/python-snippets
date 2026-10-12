@@ -61,3 +61,4 @@ Small daily notes. Auto-appended.
 - **2026-10-09** — chore: bump deps, cleanup logging setup
 - **2026-10-10** — fix: edge case in session handling
 - **2026-10-11** — perf: shave a loop in logging setup
+- **2026-10-12** — docs: expand type hints section
