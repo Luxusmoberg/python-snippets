@@ -63,3 +63,4 @@ Small daily notes. Auto-appended.
 - **2026-10-11** — perf: shave a loop in logging setup
 - **2026-10-12** — docs: expand type hints section
 - **2026-10-13** — perf: shave a loop in logging setup
+- **2026-10-14** — notes: revisit the cache layer
