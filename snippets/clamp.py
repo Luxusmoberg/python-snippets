@@ -12,3 +12,5 @@ def clamp(v, lo, hi):
 # revised 2026-09-29
 
 # revised 2026-10-08
+
+# revised 2026-10-16
