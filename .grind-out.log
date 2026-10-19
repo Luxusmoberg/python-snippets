@@ -69,3 +69,5 @@ made 1 commit(s)
 pushed ✓
 made 1 commit(s)
 pushed ✓
+made 1 commit(s)
+push failed: fatal: unable to access 'https://github.com/Luxusmoberg/python-snippets.git/': Could not resolve host: github.com
