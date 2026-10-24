@@ -21,3 +21,5 @@ def timer(label='block'):
 # revised 2026-10-07
 
 # revised 2026-10-15
+
+# revised 2026-10-24

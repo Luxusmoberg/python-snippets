@@ -72,3 +72,4 @@ Small daily notes. Auto-appended.
 - **2026-10-20** — notes: revisit session handling
 - **2026-10-22** — docs: expand the makefile section
 - **2026-10-23** — chore: bump deps, cleanup config loading
+- **2026-10-24** — test: cover path utils branch
