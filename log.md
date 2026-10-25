@@ -73,3 +73,4 @@ Small daily notes. Auto-appended.
 - **2026-10-22** — docs: expand the makefile section
 - **2026-10-23** — chore: bump deps, cleanup config loading
 - **2026-10-24** — test: cover path utils branch
+- **2026-10-25** — feat: small helper for the retry logic
