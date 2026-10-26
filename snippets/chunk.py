@@ -16,3 +16,5 @@ def chunk(xs, n):
 # revised 2026-10-09
 
 # revised 2026-10-17
+
+# revised 2026-10-26
