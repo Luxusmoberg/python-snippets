@@ -75,3 +75,4 @@ Small daily notes. Auto-appended.
 - **2026-10-24** — test: cover path utils branch
 - **2026-10-25** — feat: small helper for the retry logic
 - **2026-10-26** — refactor: simplify the makefile
+- **2026-10-27** — docs: expand the parser section
