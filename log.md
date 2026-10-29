@@ -77,3 +77,4 @@ Small daily notes. Auto-appended.
 - **2026-10-26** — refactor: simplify the makefile
 - **2026-10-27** — docs: expand the parser section
 - **2026-10-28** — docs: expand the CLI flags section
+- **2026-10-29** — style: formatting pass on docstrings
