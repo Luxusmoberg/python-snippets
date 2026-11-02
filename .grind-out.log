@@ -95,3 +95,5 @@ pushed ✓
 You have not agreed to the Xcode license agreements. Please run 'sudo xcodebuild -license' from within a Terminal window to review and agree to the Xcode and Apple SDKs license.
 made 1 commit(s)
 push failed: fatal: unable to access 'https://github.com/Luxusmoberg/python-snippets.git/': Could not resolve host: github.com
+made 1 commit(s)
+push failed: fatal: unable to access 'https://github.com/Luxusmoberg/python-snippets.git/': Could not resolve host: github.com
