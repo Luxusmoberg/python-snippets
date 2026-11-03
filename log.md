@@ -81,3 +81,4 @@ Small daily notes. Auto-appended.
 - **2026-10-31** — notes: revisit type hints
 - **2026-11-01** — refactor: simplify config loading
 - **2026-11-02** — refactor: simplify error reporting
+- **2026-11-03** — test: cover error reporting branch
