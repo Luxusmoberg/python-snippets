@@ -84,3 +84,4 @@ Small daily notes. Auto-appended.
 - **2026-11-03** — test: cover error reporting branch
 - **2026-11-04** — notes: revisit the retry logic
 - **2026-11-05** — style: formatting pass on logging setup
+- **2026-11-06** — notes: tidy up the CLI flags
