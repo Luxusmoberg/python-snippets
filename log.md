@@ -86,3 +86,4 @@ Small daily notes. Auto-appended.
 - **2026-11-05** — style: formatting pass on logging setup
 - **2026-11-06** — notes: tidy up the CLI flags
 - **2026-11-07** — chore: bump deps, cleanup the cache layer
+- **2026-11-08** — style: formatting pass on logging setup
