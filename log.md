@@ -90,3 +90,4 @@ Small daily notes. Auto-appended.
 - **2026-11-09** — test: cover path utils branch
 - **2026-11-10** — perf: shave a loop in the parser
 - **2026-11-11** — refactor: simplify the cache layer
+- **2026-11-12** — perf: shave a loop in path utils
