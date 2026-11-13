@@ -23,3 +23,5 @@ def flatten(xs):
 # revised 2026-10-27
 
 # revised 2026-11-05
+
+# revised 2026-11-13
