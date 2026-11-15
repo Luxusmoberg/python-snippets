@@ -29,3 +29,5 @@ def retry(fn, n=3, delay=0.5):
 # revised 2026-10-29
 
 # revised 2026-11-07
+
+# revised 2026-11-15
