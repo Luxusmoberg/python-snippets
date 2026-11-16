@@ -94,3 +94,4 @@ Small daily notes. Auto-appended.
 - **2026-11-13** — notes: tidy up path utils
 - **2026-11-14** — test: cover error reporting branch
 - **2026-11-15** — refactor: simplify config loading
+- **2026-11-16** — refactor: simplify error reporting
