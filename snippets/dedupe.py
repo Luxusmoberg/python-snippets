@@ -25,3 +25,5 @@ def dedupe(xs):
 # revised 2026-11-01
 
 # revised 2026-11-09
+
+# revised 2026-11-17

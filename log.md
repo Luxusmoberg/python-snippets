@@ -95,3 +95,4 @@ Small daily notes. Auto-appended.
 - **2026-11-14** — test: cover error reporting branch
 - **2026-11-15** — refactor: simplify config loading
 - **2026-11-16** — refactor: simplify error reporting
+- **2026-11-17** — feat: small helper for the cache layer
