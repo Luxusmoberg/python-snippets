@@ -99,3 +99,4 @@ Small daily notes. Auto-appended.
 - **2026-11-18** — perf: shave a loop in config loading
 - **2026-11-19** — test: cover the retry logic branch
 - **2026-11-20** — perf: shave a loop in logging setup
+- **2026-11-21** — perf: shave a loop in error reporting
